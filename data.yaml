@@ -1,0 +1,20 @@
+
+path: E:/Road Damage Detection System/dataset
+
+train: images/train
+val: images/val
+test: images/test
+
+nc: 10
+
+names:
+  0: D00
+  1: D01
+  2: D10
+  3: D11
+  4: D20
+  5: D40
+  6: D43
+  7: D44
+  8: D50
+  9: D0w0
